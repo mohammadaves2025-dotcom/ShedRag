@@ -1,0 +1,10 @@
+/* App-specific custom rules (base styling lives in index.css) */
+#root {
+  width: 100%;
+  max-width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
